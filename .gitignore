@@ -1,0 +1,5 @@
+.env
+node_modules
+
+# Custom practice files
+prac.js
